@@ -1,42 +1,39 @@
-🎓 Welcome to My Practice Repository for the Master's in Programming Assisted by AI at DevF
-This repository contains examples and exercises completed during the master's in programming assisted by artificial intelligence at DevF. Here, you'll find basic examples of HTML, including images, semantic tags, links, and more, designed to help you understand the fundamentals of web development.
+This repository contains examples and exercises for the master's in programming assisted by artificial intelligence at DevF. It demonstrates basic HTML examples including images, semantic tags, links, and more, helping to solidify web development fundamentals.
 
 🚀 Features
 🔤 HTML Tags
-Exercises that include the use of basic tags like <h1>, <p>, <a>, and more to structure your web pages correctly.
+Examples of basic tags like <h1>, <p>, and <a> to structure web pages effectively.
 
 🖼️ Image Usage
-Examples of how to insert images into an HTML page using the <img> tag and control their properties.
+Demonstrates how to insert and manipulate images with the <img> tag.
 
 🔗 Links
-Use of internal and external links with the <a> tag, including best practices for navigation.
+Examples of internal and external links using the <a> tag, with best navigation practices.
 
 🌐 Semantic Tags
-Proper document structuring with semantic HTML tags like <header>, <footer>, <article>, <section>, and more.
+Illustrates the use of semantic tags like <header>, <footer>, and <section> for proper document structure.
 
 🛠️ Technologies Used
-📄 HTML - Main language for structuring web pages
-💻 VS Code - Recommended text editor for development
-🌍 GitHub Pages - Static hosting to test examples online
+📄 HTML - Primary language for structuring web pages
+💻 VS Code - Text editor for code writing
+🌍 GitHub Pages - Static hosting for viewing live examples
 
 🚧 Getting Started
-To clone the repository and work on your local machine, follow these steps:
+To work with this repository on your local machine, follow these steps:
 
 Clone the repository:
 
 bash
 Copiar código
 git clone https://github.com/ciudadanmx/devf2.git
-Open the HTML files in your preferred browser or text editor.
-
-Make changes and save the files to see the results.
+Open the HTML files
+You can open these files in your preferred browser or text editor for practice.
 
 🌍 Live Demo
-Check out the live examples here: 👉 My Demo
-
+Check out the live examples here: 👉 Live Demo
 
 🤝 Contributing
-Contributions are welcome! If you’d like to improve this repository:
+If you'd like to improve or contribute:
 
 Fork the repository
 Create a new branch (git checkout -b feature/YourFeature)
@@ -47,10 +44,11 @@ Open a Pull Request
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit.
 
 💬 Contact
-For questions, suggestions, or any feedback, feel free to reach out:
+For any questions, suggestions, or feedback, feel free to contact me:
 
-GitHub: ciudadanmx
-Email: elyizuz420@gmail.com
+📧 Email: elyizuz420@gmail.com
+🌐 GitHub: Ciudadan MX
 
 🛠️ Under Development
-This repository is still under development. More examples and improvements will be available soon! Stay tuned.
+This repository is still under development. More examples and updates are coming soon—stay tuned!
+
