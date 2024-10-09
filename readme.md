@@ -1,55 +1,45 @@
-This repository contains examples and exercises for the master's in programming assisted by artificial intelligence at DevF. It demonstrates basic HTML examples including images, semantic tags, links, and more, helping to solidify web development fundamentals.
-----
+🌟 Ciudadan App 🌟
+Welcome to Ciudadan—an all-in-one platform built with React and inspired by apps like WeChat. We aim to provide a seamless experience for users, combining multiple services in one place. From blockchain-powered wallets to collaborative tools, Ciudadan simplifies your digital life.
 
 🚀 Features
-🔤 HTML Tags
-Examples of basic tags like <h1>, <p>, and <a> to structure web pages effectively.
+💼 Wallet Secure and fast transactions using Substrate and Polkadot sidechains. Your funds, your control.
 
-🖼️ Image Usage
-Demonstrates how to insert and manipulate images with the <img> tag.
+🛒 Marketplace
+A digital marketplace where users can buy, sell, and trade items with ease.
 
-🔗 Links
-Examples of internal and external links using the <a> tag, with best navigation practices.
+🚖 Delivery and Taxi Services
+Request a taxi or order a delivery—all within the same app, right when you need it.
 
-🌐 Semantic Tags
-Illustrates the use of semantic tags like <header>, <footer>, and <section> for proper document structure.
+🤝 Collaborative Tools
+Chat, share files, and work together using our in-app collaborative features.
 
 🛠️ Technologies Used
-📄 HTML - Primary language for structuring web pages
-💻 VS Code - Text editor for code writing
-🌍 GitHub Pages - Static hosting for viewing live examples
-
-🚧 Getting Started
-To work with this repository on your local machine, follow these steps:
+⚛️ React - Frontend framework 📱 React Native - Mobile app compatibility 🔗 Substrate and Polkadot - Blockchain technology 🌐 Node.js - Backend services 🗄️ MySQL - Database management 🚧 Getting Started To get the app running on your machine, follow these steps:
 
 Clone the repository:
+bash Copiar código git clone https://github.com/ciudadanmx/web.git Install dependencies:
 
-bash
-Copiar código
-git clone https://github.com/ciudadanmx/devf2.git
-Open the HTML files
-You can open these files in your preferred browser or text editor for practice.
+bash Copiar código npm install Run the development server:
+
+bash Copiar código npm start Build the production version:
+
+bash Copiar código npm run build
 
 🌍 Live Demo
-Check out the live examples here: 👉 Live Demo
+Check out the live version of Ciudadan here: 👉 Ciudadan.org
 
 🤝 Contributing
-If you'd like to improve or contribute:
+We welcome contributions! If you'd like to help improve Ciudadan:
 
-Fork the repository
-Create a new branch (git checkout -b feature/YourFeature)
-Make your changes and commit (git commit -m 'Add new feature')
-Push to the branch (git push origin feature/YourFeature)
-Open a Pull Request
+Fork the repository Create a new branch (git checkout -b feature/YourFeature) Make your changes and commit (git commit -m 'Add some feature') Push to the branch (git push origin feature/YourFeature) Open a Pull Request
+
 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit.
 
 💬 Contact
-For any questions, suggestions, or feedback, feel free to contact me:
+For questions, suggestions, or any feedback, feel free to reach us at:
 
-📧 Email: elyizuz420@gmail.com
-🌐 GitHub: Ciudadan MX
+GitHub: Ciudadan MX Website: Ciudadan.org
 
 🛠️ Under Development
-This repository is still under development. More examples and updates are coming soon—stay tuned!
-
+This app is still under development. More features and improvements will be coming soon. Stay tuned!
