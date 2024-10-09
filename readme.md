@@ -1,45 +1,74 @@
-🌟 Ciudadan App 🌟
-Welcome to Ciudadan—an all-in-one platform built with React and inspired by apps like WeChat. We aim to provide a seamless experience for users, combining multiple services in one place. From blockchain-powered wallets to collaborative tools, Ciudadan simplifies your digital life.
+# 🎓 Welcome to My Practice Repository for the Master's in Programming Assisted by AI at DevF
 
-🚀 Features
-💼 Wallet Secure and fast transactions using Substrate and Polkadot sidechains. Your funds, your control.
+This repository contains examples and exercises for the master's in programming assisted by artificial intelligence at DevF. It demonstrates basic HTML examples including images, semantic tags, links, and more, helping to solidify web development fundamentals.
 
-🛒 Marketplace
-A digital marketplace where users can buy, sell, and trade items with ease.
+## 🚀 Features
 
-🚖 Delivery and Taxi Services
-Request a taxi or order a delivery—all within the same app, right when you need it.
+🔤 **HTML Tags**  
+Examples of basic tags like `<h1>`, `<p>`, and `<a>` to structure web pages effectively.
 
-🤝 Collaborative Tools
-Chat, share files, and work together using our in-app collaborative features.
+🖼️ **Image Usage**  
+Demonstrates how to insert and manipulate images with the `<img>` tag.
 
-🛠️ Technologies Used
-⚛️ React - Frontend framework 📱 React Native - Mobile app compatibility 🔗 Substrate and Polkadot - Blockchain technology 🌐 Node.js - Backend services 🗄️ MySQL - Database management 🚧 Getting Started To get the app running on your machine, follow these steps:
+🔗 **Links**  
+Examples of internal and external links using the `<a>` tag, with best navigation practices.
 
-Clone the repository:
-bash Copiar código git clone https://github.com/ciudadanmx/web.git Install dependencies:
+🌐 **Semantic Tags**  
+Illustrates the use of semantic tags like `<header>`, `<footer>`, and `<section>` for proper document structure.
 
-bash Copiar código npm install Run the development server:
+## 🛠️ Technologies Used
 
-bash Copiar código npm start Build the production version:
+📄 **HTML** - Primary language for structuring web pages  
+💻 **VS Code** - Text editor for code writing  
+🌍 **GitHub Pages** - Static hosting for viewing live examples
 
-bash Copiar código npm run build
+---
 
-🌍 Live Demo
-Check out the live version of Ciudadan here: 👉 Ciudadan.org
+## 🚧 Getting Started
 
-🤝 Contributing
-We welcome contributions! If you'd like to help improve Ciudadan:
+To work with this repository on your local machine, follow these steps:
 
-Fork the repository Create a new branch (git checkout -b feature/YourFeature) Make your changes and commit (git commit -m 'Add some feature') Push to the branch (git push origin feature/YourFeature) Open a Pull Request
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ciudadanmx/devf2.git
 
-📄 License
+2. **Open the HTML files
+You can open these files in your preferred browser or text editor for practice.
+
+
+## 🌍 Live Demo
+
+Check out the live examples here: 👉 [Live Demo](https://ciudadanmx.github.io/devf2/)
+
+---
+
+## 🤝 Contributing
+
+If you'd like to improve or contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Make your changes and commit (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit.
 
-💬 Contact
-For questions, suggestions, or any feedback, feel free to reach us at:
+---
 
-GitHub: Ciudadan MX Website: Ciudadan.org
+## 💬 Contact
 
-🛠️ Under Development
-This app is still under development. More features and improvements will be coming soon. Stay tuned!
+For any questions, suggestions, or feedback, feel free to contact me:
+
+📧 **Email**: [elyizuz420@gmail.com](mailto:elyizuz420@gmail.com)  
+🌐 **GitHub**: [Ciudadan MX](https://github.com/ciudadanmx)
+
+---
+
+## 🛠️ Under Development
+
+This repository is still under development. More examples and updates are coming soon—stay tuned!
